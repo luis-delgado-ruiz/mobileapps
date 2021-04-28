@@ -1,3 +1,3 @@
 [
-{'name':'Carlos', 'hobby':'Chess'}, {'name':'Mauricio', 'hobby':'Exercise'}, {'name':'Andres', 'hobby':'Video-games'}, {'name':'Nelson', 'hobby':'Photography'}, {'name':'Ana', 'hobby':'Reading'}, {'name':'Diego', 'hobby':'Cooking'}
+{'name':'Carlos', 'hobby':'Chess', 'age':22, 'phone':1234, 'address':'Mexico'}, {'name':'Mauricio', 'hobby':'Exercise', 'age':22, 'phone':4567, 'address':'Mexico'}, {'name':'Andres', 'hobby':'Video-games', 'age':22, 'phone':8912, 'address':'Mexico'}, {'name':'Nelson', 'hobby':'Photography', 'age':22, 'phone':6789, 'address':'Mexico'}, {'name':'Ana', 'hobby':'Reading', 'age':22, 'phone':3456, 'address':'Mexico'}, {'name':'Diego', 'hobby':'Cooking', 'age':22, 'phone':5678, 'address':'Mexico'}
 ]
